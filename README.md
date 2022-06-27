@@ -5,6 +5,7 @@
 * 🔭 I’m currently working on developing my skills in technologies like JavaScript, React, etc.
 * 👯 I’m looking for a job as a **Fronted-developer**
 * 📫 You can reach me with the links below
+* 📸 As a hobby, I sometimes take photos, create a work in photoshop, adobe premiere, illustrator
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:damianmichalowskidm@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/damian-micha%C5%82owski-6b66a5243/)
