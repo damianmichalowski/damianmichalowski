@@ -1,5 +1,5 @@
 ### Hi there, I'm Damian 👋
-## About me 
+## About me 😎
 * 🔭 I’m currently working on [Movies Browser](https://github.com/Marcin-Malek/movies-browser) and my [Personal Homepage](https://github.com/damianmichalowski/Personal-Homepage)
 * 🌱 I’m currently learning **TypeScript**
 * 🔭 I’m currently working on developing my skills in technologies like JavaScript, React, etc.
@@ -19,7 +19,7 @@
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styled-components&logoColor=white)
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown)
 
-## Other tools and skills:
+## Other tools and skills: 💪
 
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
