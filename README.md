@@ -1,6 +1,6 @@
 ### Hi there, I'm Damian 👋
 ## About me 
-* 🔭 I’m currently working on [Movies Browser](https://github.com/Marcin-Malek/movies-browser) and my [Personal Homepage](https://github.com/damianmichalowski/Virtual-CV)
+* 🔭 I’m currently working on [Movies Browser](https://github.com/Marcin-Malek/movies-browser) and my [Personal Homepage](https://github.com/damianmichalowski/Personal-Homepage)
 * 🌱 I’m currently learning **TypeScript**
 * 🔭 I’m currently working on developing my skills in technologies like JavaScript, React, etc.
 * 👯 I’m looking for a job as a **Fronted-developer**
