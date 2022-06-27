@@ -1,11 +1,11 @@
 ### Hi there, I'm Damian 👋
 ## About me 😎
-* 🔭 I’m currently working on [Movies Browser](https://github.com/Marcin-Malek/movies-browser) and my [Personal Homepage](https://github.com/damianmichalowski/Personal-Homepage)
-* 🌱 I’m currently learning **TypeScript**
-* 🔭 I’m currently working on developing my skills in technologies like JavaScript, React, etc.
-* 👯 I’m looking for a job as a **Front-End Developer(React)**
-* 📫 You can reach me with the links below
-* 📸 As a hobby, I sometimes take photograph, create works in photoshop, adobe premiere, illustrator
+* 🔭 Currently working on [Movies Browser](https://github.com/Marcin-Malek/movies-browser) and my [Personal Homepage](https://github.com/damianmichalowski/Personal-Homepage)
+* 🌱 Learning **TypeScript**
+* 🔭 Working on developing my skills in technologies: JavaScript, React, CSS, Redux.
+* 👯 Looking for a job as a **Front-End Developer(React)**
+* 📸 As a hobby, I take photographs, create graphic works in Photoshop, Adobe Premiere and Illustrator
+* 📫 Reach me with the links below
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:damianmichalowskidm@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/damian-micha%C5%82owski-6b66a5243/)
