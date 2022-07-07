@@ -29,6 +29,7 @@
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat-square&logo=Trello&logoColor=white)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
+![Scrum](https://img.shields.io/badge/-Scrum-325EDC?style=flat-square&logo=Scrum)
 
 <!--
 **damianmichalowski/damianmichalowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
