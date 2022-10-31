@@ -19,6 +19,7 @@
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styled-components&logoColor=white)
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown)
+![SQL](https://img.shields.io/badge/-SQL-000000?style=flat-square&logo=SQL)
 
 ## Other tools and skills: 💪
 
