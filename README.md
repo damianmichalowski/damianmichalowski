@@ -1,8 +1,7 @@
 ### Hi there, I'm Damian 👋
 ## About me 😎
-* 🔭 Currently working on [Movies Browser](https://github.com/Marcin-Malek/movies-browser) and my [Personal Homepage](https://github.com/damianmichalowski/Personal-Homepage)
-* 🌱 Learning **TypeScript**
-* 🔭 Working on developing my skills in technologies: JavaScript, React, CSS, Redux.
+* 🔭 Take a look at [Movies Browser](https://github.com/Marcin-Malek/movies-browser) and my [Personal Homepage](https://github.com/damianmichalowski/Personal-Homepage)
+* 🔭 Working on developing my skills in technologies: React, TypeScript, Sass.
 * 👯 Looking for a job as a **Front-End Developer(React)**
 * 📸 As a hobby, I take photographs, create graphic works in Photoshop, Adobe Premiere and Illustrator
 * 📫 Reach me with the links below
