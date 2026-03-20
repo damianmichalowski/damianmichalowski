@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  I write frontend. Mostly <b>React</b> / <b>TypeScript</b>. Sometimes things work.
+  <i>✦ Good UI lives in the details ✦</i>
 </p>
 
 <p align="center">
