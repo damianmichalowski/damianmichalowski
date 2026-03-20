@@ -49,10 +49,8 @@
 </p>
 
 <p align="center">
-──────────────────────────── ✦ ────────────────────────────
+──────────────────────────────────── ✦ ────────────────────────────────────
 </p>
-
-<p align="center">contribution snake</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/damianmichalowski/damianmichalowski/output/github-contribution-grid-snake-dark.svg"/>
